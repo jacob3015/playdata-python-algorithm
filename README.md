@@ -10,3 +10,14 @@
 ## :books: 문제 출처
 - pg : [프로그래머스](https://school.programmers.co.kr/learn/challenges).
 - bj : [백준](https://www.acmicpc.net/).
+
+## :bookmark_tabs: 이슈 작성 방법
+- 이슈 제목
+  - [Tag] [Title]
+  - Tags
+    - Update : 기존 파일에 새로운 내용 추가 또는 수정
+    - Post : 새로운 문제 해결 소스 코드 게시
+    - Delete : 기존 파일 삭제
+- 이슈 내용
+  - 새로운 문제 해결 소스 코드를 게시하는 경우 문제 출처를 표기합니다.
+  - 그 외는 contents에 맞게 작성합니다.
